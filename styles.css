@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+}
+button{
+    height: 50px;
+    width: 50px;
+    background-color: red;    
+    margin-left: 650px;
+    margin-top: 170px;
+    border-radius: 5px;
+}
+.caja{
+height: 100px;
+width: 100px;
+border: rgb(0, 0, 0) solid 2px;
+border-radius: 50%;
+width: 100px;
+margin: 20px;
+margin-left: 350px;
+margin-top: -58px;
+
+}
+  .caja.azul{
+  border:black 2px solid;
+  background: yellow;
+  
+  }
+.caja body{
+    background:white;
+  }
+  h1{
+    color:white;
+    text-align: center;
+  }
